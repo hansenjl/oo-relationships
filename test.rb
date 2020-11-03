@@ -11,6 +11,7 @@ chandler = Dog.new("Chandler", 12)
 jenn = Person.new("Jenn")
 human = Person.new("Kevin")
 
+binding.pry
 
 
 
